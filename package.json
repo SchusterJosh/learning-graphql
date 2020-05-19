@@ -1,0 +1,30 @@
+{
+  "name": "learning-graphql",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000l\u0000e\u0000a\u0000r\u0000n\u0000i\u0000n\u0000g\u0000-\u0000g\u0000r\u0000a\u0000p\u0000h\u0000q\u0000l\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SchusterJosh/learning-graphql.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SchusterJosh/learning-graphql/issues"
+  },
+  "homepage": "https://github.com/SchusterJosh/learning-graphql#readme",
+  "dependencies": {
+    "apollo-server": "^2.13.1",
+    "bcryptjs": "^2.4.3",
+    "graphql": "^15.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.14"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
